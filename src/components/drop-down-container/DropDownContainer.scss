@@ -1,0 +1,17 @@
+
+.more-icon-container{
+  display: flex;
+}
+.more-icon-wrapper{
+  background-color: hsla(225, 14%, 28%, 1);
+  width: 30px;
+  &:hover{
+    background-color: hsla(210, 100%, 33%, 0.5);
+  }
+}
+  .left-side{
+    text-align: left;
+  }
+  .right-side{
+    text-align: right;
+  }
